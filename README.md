@@ -1,6 +1,6 @@
 ### Степан Соколов
 
-QA-инженер (Manual + Automation) в геймдеве, сейчас работаю в [4Game](https://ru.4game.ru).
+QA-инженер (Manual + Automation), сейчас работаю в [4Game](https://ru.4game.ru).
 
 - Тестирую игры, лаунчер, web- и мобильные приложения (Windows, iOS, Android).
 - Пишу e2e-автотесты на **Playwright + TypeScript** (Page Object, TestIT, GitLab CI).
